@@ -1,0 +1,23 @@
+# Driver Psychology & Traffic Behavior Analysis Configuration
+
+camera:
+  source: "mock" # Options: "mock", "webcam", "rtsp://...", or path to video file
+  fps_sample_rate: 1 # Sample 1 frame per second to save compute
+  resolution: [1280, 720]
+  roi: [0, 0, 1280, 720] # Region of interest [x1, y1, x2, y2]
+
+analysis:
+  aggression_threshold_speed: 15.0 # pixels/sec normalized sudden acceleration
+  gap_threshold_pixels: 40 # minimum gap distance considered competitive
+  vehicle_classes:
+    - cng_autorickshaw
+    - motorcycle
+    - bus
+    - private_sedan
+    - truck
+
+storage:
+  db_path: "data/traffic_psychology.db"
+
+reporting:
+  output_dir: "reports"
