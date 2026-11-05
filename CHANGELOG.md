@@ -12,3 +12,4 @@ All notable changes to the *Driver Psychology & Traffic Behavior Analysis* proje
 ### Added
 - Initial computer vision and behavioral telemetry pipeline.
 - Synthetic mock frame generator, detector, psychology classifier, SQLite telemetry storage, and CLI report generator.
+

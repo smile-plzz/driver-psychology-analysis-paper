@@ -12,3 +12,4 @@
 2. Quantify driver tension indices: average aggression score (0–100), gap-closing ratio (scarcity mindset index), and vehicle-class breakdowns (CNG, Bike, Bus, Private Car).
 3. Classify dominant behavioral tags via NLP-style summarization.
 4. Support both synthetic mock traffic generation (for rapid testing) and real YOLOv8 camera video streams.
+
