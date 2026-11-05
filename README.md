@@ -106,3 +106,21 @@ python main.py report         # generate latest summary markdown
 ---
 
 Enjoy and let me know when the camera hardware is mounted — that's the moment this gets real. 🏙️📹
+
+---
+
+## 👤 Author & Contact
+
+**Md. Ismail Hossain**  
+*Technology Professional & AI / Software Systems Researcher*  
+*Professional Masters in Information Technology (PMIT), Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh*  
+*B.Sc. in Computer Science & Engineering*
+
+- 📧 **Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)
+- 🌐 **Portfolio:** [https://smile-plzz.github.io/Ismail_Hossain/](https://smile-plzz.github.io/Ismail_Hossain/)
+- 🐙 **GitHub:** [@smile-plzz](https://github.com/smile-plzz)
+- 💼 **LinkedIn:** [md-ismail-hossain-2938541b1](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/)
+- 📘 **Facebook:** [optimisticyetpessimist](https://www.facebook.com/optimisticyetpessimist/)
+- 🐦 **X (Twitter):** [@smile_plzzz_](https://x.com/smile_plzzz_)
+- 📍 **Location:** Dhaka, Bangladesh
+
